@@ -1,0 +1,22 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'><qgis version="3.16.1-Hannover"><language>en</language><type>dataset</type>
+<parentidentifier>Antarctic Surface Accumulation and Ice Discharge (ASAID) project</parentidentifier>
+<identifier>../Glaciology/ASAID/ASAID_GroundingLine_Continent.shp</identifier>
+<title>ASAID Grounding line, continent (Sc.dep.)</title>
+<abstract>
+High-resolution image-derived grounding line position for the Antarctic Ice Sheet. The data are derived using customized software to combine data from Landsat-7 imagery and Ice, Cloud, and land Elevation Satellite (ICESat) laser altimetry, which were primarily collected between 1999 to 2003. The data were developed as part of the Antarctic Surface Accumulation and Ice Discharge (ASAID) project.
+
+Originators: http://nsidc.org/data/docs/agdc/nsidc0489_bindschadler/index.html
+
+Publication date: 2011
+
+References: Bindschadler, R., H. Choi, and ASAID Collaborators. 2011. High-resolution Image-derived Grounding and Hydrostatic Lines for the Antarctic Ice Sheet. Boulder, Colorado, USA: National Snow and Ice Data Center. Digital media.
+
+Editors
+Glaciology
+
+Catherine Ritz
+catherine.ritz@univ-grenoble-alpes.fr
+
+Anne LeBrocq
+A.LeBrocq@exeter.ac.uk
+</abstract></qgis>
